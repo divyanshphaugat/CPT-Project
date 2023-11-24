@@ -63,4 +63,4 @@ jobs:
           app-name: 'DivyanshPChatbot'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ECAC811C454A40008867AE7694666037 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CFE874C740534E3D9681B2830EBC0F48 }}
